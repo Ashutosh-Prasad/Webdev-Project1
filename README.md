@@ -7,4 +7,4 @@
   some of the images(photos) are designed by me and some i got from the internet(First top.png,Login Background.jpg,) of which the link to the sources i will update soon
   
 # 📄 License 
-The texts, code and the images(except the ones mentioned in this file above) in this repository are licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/
+The texts, code and the images(except the name of ones which i mentioned in this readme file above) in this repository are licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/
